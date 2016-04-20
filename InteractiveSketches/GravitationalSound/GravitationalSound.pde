@@ -80,7 +80,7 @@ void draw()
   updatePositions();
   
   // save frames in a folder if you want to create a video of the execution afterwards
-  saveFrame("frames/#####.png");
+  //saveFrame("frames/#####.png");
 }
 
 void initialize()
